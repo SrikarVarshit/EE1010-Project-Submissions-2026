@@ -1,0 +1,22 @@
+﻿Digital Clock — References
+
+
+Main.pdf
+* We referred the main.pdf for the initial circuit plan and the concepts behind the circuit and components
+* Most of the doubts were clarified by main.pdf
+
+
+
+
+
+
+Help of Gemini(Ai)
+* We verified the whole code of the arduino and the some circuit connections with Ai
+* We also learned some concepts behind the circuit building and code
+* Circuit building
+* Code
+
+
+Help of TA’s
+* The TA’s have helped to clears many queries
+* They helped us to set up Git Hub and Turmex
